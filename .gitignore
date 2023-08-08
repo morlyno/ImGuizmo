@@ -3,4 +3,5 @@ build/
 
 bin
 bin-int
-ImGuizmo.vcxproj
+*.sln
+*.vcxproj*
