@@ -23,7 +23,7 @@ project "ImGuizmo"
 
    includedirs
    {
-      "%{IncludeDir.ImGui}"
+      "%{ImGui.IncludeDir}"
    }
 
    links
